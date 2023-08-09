@@ -1,0 +1,29 @@
+img
+{
+    width: 700px;
+    font-size: 500px;
+    
+}
+
+h1
+{
+    font-family: 'Caprasimo', cursive;
+}
+h2
+{
+    font-family: 'Caprasimo', cursive;    
+}
+
+.contenedor
+{
+    width: 60%;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+body
+{
+    background-image: url(../imagenes/imagennn.webp);
+    
+}
+
